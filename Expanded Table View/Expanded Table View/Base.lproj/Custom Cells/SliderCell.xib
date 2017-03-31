@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15G1108" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="G8W-73-TaT" customClass="CustomCell" customModule="Expanded_Table_View" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="G8W-73-TaT" id="P9u-bM-ogy">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" minValue="0.0" maxValue="10" translatesAutoresizingMaskIntoConstraints="NO" id="5er-uT-7oV">
+                        <rect key="frame" x="6" y="6" width="308" height="31"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="orO-3v-xeI"/>
+                        </constraints>
+                        <connections>
+                            <action selector="handleSliderValueChange:" destination="G8W-73-TaT" eventType="valueChanged" id="HFd-8C-nZB"/>
+                        </connections>
+                    </slider>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="5er-uT-7oV" secondAttribute="bottom" constant="7" id="4zf-7j-8cZ"/>
+                    <constraint firstItem="5er-uT-7oV" firstAttribute="leading" secondItem="P9u-bM-ogy" secondAttribute="leading" constant="8" id="P9k-iB-Tds"/>
+                    <constraint firstAttribute="trailing" secondItem="5er-uT-7oV" secondAttribute="trailing" constant="8" id="xxq-4a-MtI"/>
+                    <constraint firstItem="5er-uT-7oV" firstAttribute="top" secondItem="P9u-bM-ogy" secondAttribute="top" constant="6" id="z67-X0-g1I"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="slExperienceLevel" destination="5er-uT-7oV" id="pQq-Ha-R5x"/>
+            </connections>
+            <point key="canvasLocation" x="10" y="-182"/>
+        </tableViewCell>
+    </objects>
+</document>
