@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11542" systemVersion="15G1108" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="TestProject" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yX2-od-co1">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="Auy-VN-9g3"/>
+                                </constraints>
+                                <items>
+                                    <navigationItem title="Counter" id="xsC-96-n8c">
+                                        <barButtonItem key="leftBarButtonItem" title="Reset" id="hUi-Hd-mTz">
+                                            <connections>
+                                                <action selector="resetButtonCounter:" destination="BYZ-38-t0r" id="3mQ-bs-8bm"/>
+                                            </connections>
+                                        </barButtonItem>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3FS-Ha-wdC">
+                                <rect key="frame" x="121" y="231" width="78" height="106"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="78" id="O87-WC-XKk"/>
+                                    <constraint firstAttribute="height" constant="106" id="YaT-RZ-nE2"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="27"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WpZ-OB-ohw">
+                                <rect key="frame" x="96" y="377" width="128" height="42"/>
+                                <gestureRecognizers/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="Tap or Hold"/>
+                                <connections>
+                                    <action selector="tapButtonCounter:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fcY-Pb-5Oo"/>
+                                    <action selector="tapPressLong:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7TI-0c-ILs"/>
+                                    <outletCollection property="gestureRecognizers" destination="vzf-aB-Cfl" appends="YES" id="YBK-7I-48u"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <gestureRecognizers/>
+                        <constraints>
+                            <constraint firstItem="yX2-od-co1" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="AKo-LG-RWg"/>
+                            <constraint firstItem="3FS-Ha-wdC" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="EIB-ad-TUW"/>
+                            <constraint firstItem="WpZ-OB-ohw" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="hqE-Wa-yQU"/>
+                            <constraint firstItem="3FS-Ha-wdC" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="j0a-RS-q37"/>
+                            <constraint firstAttribute="trailing" secondItem="yX2-od-co1" secondAttribute="trailing" id="sdM-R2-Jb8"/>
+                            <constraint firstItem="yX2-od-co1" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="w7O-zS-eiJ"/>
+                            <constraint firstItem="WpZ-OB-ohw" firstAttribute="top" secondItem="3FS-Ha-wdC" secondAttribute="bottom" constant="40" id="weX-X3-LVG"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="labelCounter" destination="3FS-Ha-wdC" id="o3h-HV-Wqj"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.20000000000000001" id="vzf-aB-Cfl"/>
+            </objects>
+            <point key="canvasLocation" x="116.25" y="122.53521126760563"/>
+        </scene>
+    </scenes>
+</document>
