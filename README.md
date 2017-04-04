@@ -115,7 +115,6 @@ Project: Instagram Client
 
 ## Contact Me ##
 My E-mail: AlexeySur@gmail.com
-
 Twitter: [@AlexeySur](https://twitter.com/AlexeySur)
 
 LinkedIn: [Alexey Sur](https://www.linkedin.com/in/alexey-sur-2802074b/)
