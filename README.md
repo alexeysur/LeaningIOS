@@ -12,7 +12,9 @@ Inspired by Sam Lu's [100 Days of Swift project](http://samvlu.com/index.html), 
 ## Projects and GIFs ##
 My first one hundred projects:
 
-[Project 1: Gesture, UILabel](https://github.com/alexeysur/LeaningIOS/tree/master/TestProject/project1.gif)
+[Project 1: Gesture, UILabel](https://github.com/alexeysur/LeaningIOS/tree/master/TestProject)
+
+![Alt text](https://github.com/alexeysur/LeaningIOS/tree/master/TestProject/project1.png)
 
 + Buttons are equal size with 25 points between them
 + StackView is centered horizontally
