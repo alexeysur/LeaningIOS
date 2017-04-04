@@ -12,9 +12,7 @@ Inspired by Sam Lu's [100 Days of Swift project] (http://samvlu.com/index.html),
 ## Projects and GIFs ##
 My first one hundred projects:
 
-Project 1: [Gesture, UILabel] - (https://github.com/alexeysur/LeaningIOS/tree/master/TestProject/)
-
-![](/.gif)
+Project 1: [Gesture, UILabel](https://github.com/alexeysur/LeaningIOS/tree/master/TestProject/project1.gif)
 
 + Buttons are equal size with 25 points between them
 + StackView is centered horizontally
@@ -22,19 +20,21 @@ Project 1: [Gesture, UILabel] - (https://github.com/alexeysur/LeaningIOS/tree/ma
 + Add some extra padding to button width and height
 
 
-Project 2: [UIButton in UIStackView] - (https://github.com/alexeysur/LeaningIOS/tree/master/UIButton%20in%20a%20UIStackView/)
-Project 3: [Simple TableView] - (https://github.com/alexeysur/LeaningIOS/tree/master/SimpleTableView/)
-Project 4: [TableView with Sections] - (https://github.com/alexeysur/LeaningIOS/tree/master/TableViewSections/)
+Project 2: [UIButton in UIStackView](https://github.com/alexeysur/LeaningIOS/tree/master/UIButton%20in%20a%20UIStackView/project2.gif)
+
+Project 3: [Simple TableView](https://github.com/alexeysur/LeaningIOS/tree/master/SimpleTableView/project3.gif)
+Project 4: [TableView with Sections](https://github.com/alexeysur/LeaningIOS/tree/master/TableViewSections/project4.gif)
+
 + UITableViewController Subclass with Sections and an Index
 
-Project 5: [MainTableView and DetailTableView] - (https://github.com/alexeysur/LeaningIOS/tree/master/MultiTableView/)
-Project 6: [Simple TabBarController] - (https://github.com/alexeysur/LeaningIOS/tree/master/TabBarMenu/)
-Project 7: [Use PageViewController] - (https://github.com/alexeysur/LeaningIOS/tree/master/PageViewController/)
-Project 8: [Create Left Side Menu use SWRevealViewController] - (https://github.com/alexeysur/LeaningIOS/tree/master/LeftSideMenu/)
-Project 9: [Iphone popover] - (https://github.com/alexeysur/LeaningIOS/tree/master/Iphone%20popover/)
-Project 10: [Expanded TableView] - (https://github.com/alexeysur/LeaningIOS/tree/master/Expanded%20Table%20View/)
-Project 11: [UICollectionView]  - (https://github.com/alexeysur/LeaningIOS/tree/master/Custom%20Table%20View%20Cell%20(XIB)/)
-Project 12: [UICollectionViewLayout] - (https://github.com/alexeysur/LeaningIOS/)
+Project 5: [MainTableView and DetailTableView](https://github.com/alexeysur/LeaningIOS/tree/master/MultiTableView/project5.gif)
+Project 6: [Simple TabBarController](https://github.com/alexeysur/LeaningIOS/tree/master/TabBarMenu/project6.gif)
+Project 7: [Use PageViewController](https://github.com/alexeysur/LeaningIOS/tree/master/PageViewController/project7.gif)
+Project 8: [Create Left Side Menu use SWRevealViewController](https://github.com/alexeysur/LeaningIOS/tree/master/LeftSideMenu/project8.gif)
+Project 9: [Iphone popover](https://github.com/alexeysur/LeaningIOS/tree/master/Iphone%20popover/project9.gif)
+Project 10: [Expanded TableView](https://github.com/alexeysur/LeaningIOS/tree/master/Expanded%20Table%20View/project10.gif)
+Project 11: [UICollectionView](https://github.com/alexeysur/LeaningIOS/tree/master/Custom%20Table%20View%20Cell%20(XIB)/project11.gif)
+Project 12: [UICollectionViewLayout](https://github.com/alexeysur/LeaningIOS/project12.gif)
 
 
 ## What's next? ##
@@ -63,15 +63,15 @@ Project: Instagram Client
 
 ## Where I learn from? ##
 
-[SwiftBook.ru] (http://swiftbook.ru)
-[proSwift.ru] (http://proswift.ru)
+[SwiftBook.ru](http://swiftbook.ru)
+[proSwift.ru](http://proswift.ru)
 [Udacity](https://www.udacity.com)
 [Ray Wenderlich](https://www.raywenderlich.com)
 [Artsy](http://artsy.github.io)
 [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
 [iOSCreator](http://www.ioscreator.com/)
 
-[Youtube  - Just Dev] (https://www.youtube.com/channel/UC0nOHJ-D7TBv_KG6DVHtbwQ)
+[Youtube  - Just Dev](https://www.youtube.com/channel/UC0nOHJ-D7TBv_KG6DVHtbwQ)
 [Youtube - Jared Davidson](https://www.youtube.com/user/Archetapp)
 [Youtube - Geeky Lemon](https://www.youtube.com/user/GeekyLemon)
 [Youtube - Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
@@ -84,4 +84,4 @@ Project: Instagram Client
 ## Contact Me ##
 My E-mail: AlexeySur@gmail.com
 Twitter: [@AlexeySur](https://twitter.com/AlexeySur)
-LinkedIn: [Alexey Sur](https://www.linkedin.com/in/)
+LinkedIn: [Alexey Sur](https://www.linkedin.com/in/alexey-sur-2802074b/)
