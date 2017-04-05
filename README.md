@@ -71,7 +71,7 @@ My first one hundred projects:
 
 ## What's next? ##
 
-Update: I will made:
+I will made:
 
 Project: Horizontal Scroll Direction UICollectionView
 
