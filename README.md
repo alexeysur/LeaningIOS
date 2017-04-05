@@ -30,7 +30,7 @@ My first one hundred projects:
 
 <img src="https://cloud.githubusercontent.com/assets/13164858/24700527/1af0e21e-1a00-11e7-90bd-4509fcf82f51.png" width =160 height=259>
 
-[Project 4: TableView with Sections](https://g<ithub.com/alexeysur/LeaningIOS/tree/master/TableViewSections)
+[Project 4: TableView with Sections](https://github.com/alexeysur/LeaningIOS/tree/master/TableViewSections)
 
 <img src="https://cloud.githubusercontent.com/assets/13164858/24701073/cf8e030e-1a01-11e7-9ff0-becbf560dc3e.png" width=160 height=259>
 
@@ -51,7 +51,7 @@ My first one hundred projects:
 
 [Project 7: Use PageViewController](https://github.com/alexeysur/LeaningIOS/tree/master/PageViewController)
 
-<img src="https://cloud.githubusercontent.com/assets/13164858/24701536/79c26e22-1a03-11e7-9015-11587608fb3a.png" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701973/58216d16-1a05-11e7-946a-be67d8f680d3.png" width=160 height=259>
 
 [Project 8: Create Left Side Menu use SWRevealViewController](https://github.com/alexeysur/LeaningIOS/tree/master/LeftSideMenu)
 
