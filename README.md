@@ -32,42 +32,42 @@ My first one hundred projects:
 
 [Project 4: TableView with Sections](https://g<ithub.com/alexeysur/LeaningIOS/tree/master/TableViewSections)
 
-<img scr="https://cloud.githubusercontent.com/assets/13164858/24701073/cf8e030e-1a01-11e7-9ff0-becbf560dc3e.png" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701073/cf8e030e-1a01-11e7-9ff0-becbf560dc3e.png" width=160 height=259>
 
 + UITableViewController Subclass with Sections and an Index
 
 [Project 5: MainTableView and DetailTableView](https://github.com/alexeysur/LeaningIOS/tree/master/MultiTableView)
-<p align="left">
-<img scr="https://cloud.githubusercontent.com/assets/13164858/24701173/318febc6-1a02-11e7-9324-2c723d72f355.png" width=160 height=259>
-<img scr="https://cloud.githubusercontent.com/assets/13164858/24701172/318d4452-1a02-11e7-9cf8-7c37955dadd3.png" width=160 height=259>
-<img scr="https://cloud.githubusercontent.com/assets/13164858/24701175/3191dca6-1a02-11e7-8608-b58df587dc97.png" width=160 height=259>
-<imag scr="https://cloud.githubusercontent.com/assets/13164858/24701177/31a1ff82-1a02-11e7-9158-e4308505d44b.png" width=160 height=259>
-<imag scr="https://cloud.githubusercontent.com/assets/13164858/24701176/319ed55a-1a02-11e7-85b4-a1deaf514c6d.png" width=160 height=259>
-</p>
+<div align="left">
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701173/318febc6-1a02-11e7-9324-2c723d72f355.png" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701172/318d4452-1a02-11e7-9cf8-7c37955dadd3.png" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701175/3191dca6-1a02-11e7-8608-b58df587dc97.png" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701177/31a1ff82-1a02-11e7-9158-e4308505d44b.png" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701176/319ed55a-1a02-11e7-85b4-a1deaf514c6d.png" width=160 height=259>
+</div>
 
 [Project 6: Simple TabBarController](https://github.com/alexeysur/LeaningIOS/tree/master/TabBarMenu)
 
-<imag scr="" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701494/53fc363c-1a03-11e7-891a-809dc82b14fe.png" width=160 height=259>
 
 [Project 7: Use PageViewController](https://github.com/alexeysur/LeaningIOS/tree/master/PageViewController)
 
-<imag scr="" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701536/79c26e22-1a03-11e7-9015-11587608fb3a.png" width=160 height=259>
 
 [Project 8: Create Left Side Menu use SWRevealViewController](https://github.com/alexeysur/LeaningIOS/tree/master/LeftSideMenu)
 
-<imag scr="" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701675/0a839eb8-1a04-11e7-8f45-61d14a614536.png" width=160 height=259>
 
 [Project 9: Iphone popover](https://github.com/alexeysur/LeaningIOS/tree/master/Iphone%20popover)
 
-<imag scr="" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701740/4550789a-1a04-11e7-8632-257ebab1cc6e.png" width=160 height=259>
 
 [Project 10: Expanded TableView](https://github.com/alexeysur/LeaningIOS/tree/master/Expanded%20Table%20View)
 
-<imag scr="" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701773/667d9412-1a04-11e7-8a62-6eb780f30195.png" width=160 height=259>
 
 [Project 11: UICollectionView](https://github.com/alexeysur/LeaningIOS/tree/master/Custom%20Table%20View%20Cell%20(XIB))
 
-<imag scr="" width=160 height=259>
+<img src="https://cloud.githubusercontent.com/assets/13164858/24701813/96b11ec4-1a04-11e7-94a9-02d175fee524.png" width=160 height=259>
 
 ## What's next? ##
 
